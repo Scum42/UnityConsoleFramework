@@ -11,6 +11,9 @@ public class Echo : ICommand
 
     public void Execute(List<string> args)
     {
-        ConsoleManager.instance.Println(args[1]);
+        if (args.Count > 1)
+            ConsoleManager.instance.Println(args[1]);
+        else
+            ConsoleManager.instance.Println();
     }
 }

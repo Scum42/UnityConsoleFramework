@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 4088ed7e58769cd4a9d68d57cdbaee94
-timeCreated: 1504893625
+guid: b3ad870a1fdc55547be8f6a908463688
+timeCreated: 1504986105
 licenseType: Free
 TrueTypeFontImporter:
   serializedVersion: 4
@@ -9,11 +9,10 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: F25 Bank Printer
+  fontName: Cousine
   fontNames:
-  - F25 Bank Printer
-  fallbackFontReferences:
-  - {fileID: 12800000, guid: 58064caa97e55024994555eaff296911, type: 3}
+  - Cousine
+  fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
